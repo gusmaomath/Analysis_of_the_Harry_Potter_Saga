@@ -25,10 +25,11 @@ Este repositório contém uma Análise Exploratória de Dados (EDA) para compara
 ## 📂 Como Utilizar
 
 - **Arquivo Jupyter Notebook:** O arquivo `EDA_20240916_HarryPotter_v1.ipynb` contém todo o fluxo de trabalho para replicação da análise, incluindo preparação de dados, geração de gráficos e discussão sobre os resultados.
-- **Dependências:** Certifique-se de ter instaladas as seguintes bibliotecas para executar o notebook:
+- **Dependências:** Certifique-se de ter instaladas as seguintes bibliotecas para executar o notebook "imdb_all_movies.csv" e "rotten_tomatoes_movies.csv"**
   - `pandas`
   - `seaborn`
   - `matplotlib`
+  - Baixar as bases ultilizadas no código (Links no notebook) e renomealas como "imdb_all_movies.csv" e "rotten_tomatoes_movies.csv"
 
 ## 🚀 Objetivo do Repositório
 
